@@ -21,7 +21,7 @@
   </Attributes>
   <Docs>
     <summary>
-            An instance of this class is obtained from an <see cref="T:System.Data.Entity.DbContext" /> object and can be used
+            An instance of this class is obtained from a <see cref="T:System.Data.Entity.DbContext" /> object and can be used
             to manage the actual database backing a DbContext or connection.
             This includes creating, deleting, and checking for the existence of a database.
             Note that deletion and checking for existence of a database can be performed using just a
